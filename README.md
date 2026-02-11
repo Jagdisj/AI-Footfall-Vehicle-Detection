@@ -250,7 +250,7 @@ We are super excited about our first-ever Ultralytics YOLOv5 🚀 EXPORT Competi
 * **TTA** [Test Time Augmentation](https://github.com/ultralytics/yolov5/issues/303) includes reflection and scale augmentations.<br>Reproduce by `python val.py --data coco.yaml --img 1536 --iou 0.7 --augment`
 
 </details>
-📸 Dashboard Preview 
+<div 📸 Dashboard Preview </details>div>
 
 <img width="1920" height="1020" alt="Screenshot 2026-02-11 210021" src="https://github.com/user-attachments/assets/7f5f4193-e4ff-4a3a-995c-4d85c689c4b6" />
 <img width="1920" height="1020" alt="Screenshot 2026-02-11 210041" src="https://github.com/user-attachments/assets/cb32b0b3-c713-4a02-9ddb-e29d0c63cc78" />
