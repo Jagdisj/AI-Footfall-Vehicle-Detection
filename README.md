@@ -265,6 +265,11 @@ professional support requests please visit [https://ultralytics.com/contact](htt
 
 <br>
 
+📸 Dashboard Preview 
+
+<img width="1920" height="1020" alt="Screenshot 2026-02-11 210021" src="https://github.com/user-attachments/assets/7f5f4193-e4ff-4a3a-995c-4d85c689c4b6" />
+<img width="1920" height="1020" alt="Screenshot 2026-02-11 210041" src="https://github.com/user-attachments/assets/cb32b0b3-c713-4a02-9ddb-e29d0c63cc78" />
+
 <div align="center">
     <a href="https://github.com/ultralytics">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="3%"/>
